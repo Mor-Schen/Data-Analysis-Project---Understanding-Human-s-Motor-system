@@ -1,1 +1,1 @@
-# Data-Analysis-Project---Understanding-Human-s-Motor-system
+# Data Analysis Project - Understanding Human's Motor System
