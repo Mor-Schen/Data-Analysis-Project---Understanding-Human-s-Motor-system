@@ -1,7 +1,7 @@
 # Data-Analysis-Project-Understanding-Humans-Motor-system
 
-In our project, we teamed up with two researchers from The Cognitive Development Lab at the Haifa University - Prof. Bat-Sheva Hadad and Dr. Noam Karsh. 
-Their research investigates the impact of low specialization in sensory perception in autism spectrum disorder(ASD) on sensorimotor control.
+Project in cooperation with The Cognitive Development Lab at the Haifa University. 
+The research investigates the impact of low specialization in sensory perception in autism spectrum disorder(ASD) on sensorimotor control.
 
 The scope of our project was the data set collected during the experiment, which contained the experiment results, participant data, experiment surrounding 
 characteristics and results and score of aq questionnaire. We processed the data and focused on main variables, removed outliers and insufficient observations. 
